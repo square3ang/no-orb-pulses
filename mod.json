@@ -1,6 +1,6 @@
 {
-	"geode": "5.6.1",
-	"version": "v1.0.0",
+	"geode": "5.7.1",
+	"version": "v1.0.1",
 	"gd": {
 		"win": "2.2081",
 		"android": "2.2081",
@@ -30,9 +30,11 @@
 			}
 		}
 	},
+	"links": {
+		"source": "https://github.com/square3ang/no-orb-pulses/"
+	},
 	"tags": [
-		"cosmetic",
-		"customization",
-		"utility"
+		"enhancement",
+		"customization"
 	]
 }
